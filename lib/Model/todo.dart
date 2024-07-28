@@ -13,7 +13,7 @@ class Todo{
       Todo(id: "04", todoText: "Check Mail"),
       Todo(id: "05", todoText: "Go to University",isDone: true),
       Todo(id: "06", todoText: "See the Teacher"),
-      Todo(id: "07", todoText: "Go to Office",isDone: true),
+      Todo(id: "07", todoText: "Read PHP",isDone: true),
       Todo(id: "08", todoText: "push in Github",isDone: true),
       Todo(id: "09", todoText: "Work on the app",isDone: true),
     ];
